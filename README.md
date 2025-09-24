@@ -13,7 +13,7 @@
    
    b. Instru
    
-         - Locate students from Luzon with Electronics score greater than 70. Then call only tha data from the selected column: Name, GEAS, Electronics.
+         - Locate Instrumentation students from Luzon with Electronics score greater than 70. Then call only tha data from the selected column: Name, GEAS, Electronics.
    
    c. Mindy
    
