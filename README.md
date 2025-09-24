@@ -20,7 +20,9 @@
          - Locate Female students from Mindanao with average score greater than or equal to 55. Then call only the data from the selected column: Name, Track, Electronics, Average.
    
 7. Visualization:
-   
+
+   Import matplotlib.pyplot as plt to access graphs and charts.
+
    a. Track-Gender
    
        - Groups by Track & Gender, pivots to wide format
