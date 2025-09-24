@@ -7,13 +7,19 @@
 4. Check data description.
 5. Filtering:
    
-   a. Vis : Locate students from Visayas with Math scores less than 70.  Then call only the data from the selected column: Name, Gender, Track, Math.
+   a. Vis
+
+         - Locate students from Visayas with Math scores less than 70.  Then call only the data from the selected column: Name, Gender, Track, Math.
    
-   b. Instru : Locate students from Luzon with Electronics score greater than 70. Then call only tha data from the selected column: Name, GEAS, Electronics.
+   b. Instru
    
-   c. Mindy : Locate Female students from Mindanao with average score greater than or equal to 55. Then call only the data from the selected column: Name, Track, Electronics, Average.
+         - Locate students from Luzon with Electronics score greater than 70. Then call only tha data from the selected column: Name, GEAS, Electronics.
    
-6. Visualization:
+   c. Mindy
+   
+         - Locate Female students from Mindanao with average score greater than or equal to 55. Then call only the data from the selected column: Name, Track, Electronics, Average.
+   
+7. Visualization:
    
    a. Track-Gender
    
